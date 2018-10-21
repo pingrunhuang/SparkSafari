@@ -1,0 +1,8 @@
+.idea/
+SparkSafari.iml
+spark-warehouse/
+target/
+core/target
+core/core.iml
+mllib/mllib.iml
+mllib/target
